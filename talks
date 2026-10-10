@@ -1,0 +1,227 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Opening Remarks | Religious Education Training</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            padding: 40px 20px;
+            background-color: #f4f6f8;
+            color: #293342;
+            font-family: Georgia, "Times New Roman", serif;
+            line-height: 1.8;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: 0 auto;
+            padding: 50px 60px;
+            background-color: #ffffff;
+            border-top: 5px solid #24496b;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.07);
+            border-radius: 6px;
+        }
+
+        h1 {
+            margin-top: 0;
+            margin-bottom: 10px;
+            color: #24496b;
+            font-size: 2rem;
+            line-height: 1.3;
+            text-align: center;
+        }
+
+        .subtitle {
+            margin-bottom: 35px;
+            color: #758395;
+            font-family: Arial, sans-serif;
+            font-size: 0.9rem;
+            letter-spacing: 1.5px;
+            text-align: center;
+            text-transform: uppercase;
+        }
+
+        h2 {
+            margin-top: 30px;
+            margin-bottom: 10px;
+            color: #24496b;
+            font-size: 1.2rem;
+        }
+
+        p {
+            margin: 0 0 20px;
+            font-size: 1.08rem;
+        }
+
+        .teaching-point {
+            margin: 25px 0;
+            padding: 5px 0 5px 22px;
+            border-left: 3px solid #c4a66a;
+        }
+
+        .teaching-point h2 {
+            margin-top: 0;
+        }
+
+        .testimony {
+            margin-top: 30px;
+            padding-top: 25px;
+            border-top: 1px solid #dce2e8;
+            font-style: italic;
+        }
+
+        .closing {
+            margin-top: 25px;
+            color: #24496b;
+            font-weight: bold;
+        }
+
+        @media (max-width: 600px) {
+            body {
+                padding: 15px 10px;
+            }
+
+            .container {
+                padding: 30px 22px;
+            }
+
+            h1 {
+                font-size: 1.65rem;
+            }
+
+            p {
+                font-size: 1rem;
+            }
+        }
+
+        @media print {
+            body {
+                padding: 0;
+                background: #ffffff;
+            }
+
+            .container {
+                max-width: 100%;
+                padding: 20px;
+                border-top: none;
+                box-shadow: none;
+            }
+
+            p {
+                font-size: 12pt;
+                line-height: 1.6;
+            }
+
+            h1, h2 {
+                color: #000000;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <main class="container">
+
+        <h1>Opening Remarks</h1>
+
+        <div class="subtitle">
+            Religious Education Training
+        </div>
+
+        <p>
+            Brothers and sisters, good morning, and welcome. Thank you for
+            giving up your Saturday morning. You teach our youth and young
+            adults week after week, often with little recognition, and the
+            Lord sees every bit of it.
+        </p>
+
+        <p>
+            I want to begin with why we are here. The purpose of religious
+            education is to help each student become a lifelong disciple of
+            Jesus Christ. Elder Nelson once taught that we should begin with
+            the end in mind. If we keep that goal in front of us, everything
+            else follows: what we teach, how we teach, and even how we measure
+            whether it worked.
+        </p>
+
+        <p>
+            How we teach matters. Elder Meredith reminded us of President
+            Packer’s cake. It was the same cake in both cases, but the way it
+            was served decided whether anyone wanted it. The gospel is the
+            same, but our manner of teaching can make it inviting or make it
+            hard to receive.
+        </p>
+
+        <p>
+            Today’s training is built on one idea from
+            <em>Teaching in the Savior’s Way</em>: invite diligent learning.
+            There are three parts.
+        </p>
+
+        <section class="teaching-point">
+            <h2>1. Invite Learners to Prepare to Learn</h2>
+
+            <p>
+                Even the brother of Jared was first invited by the Lord to
+                take responsibility for the solution. The Lord asked him what
+                he wanted prepared before he acted. Our students are the same.
+                When they prepare, the discussion is deeper and the Spirit is
+                stronger.
+            </p>
+        </section>
+
+        <section class="teaching-point">
+            <h2>2. Encourage Learners to Share What They Are Learning</h2>
+
+            <p>
+                When students know they will be asked to share, they listen
+                and prepare differently. Speaking what they have learned also
+                makes it clearer to them.
+            </p>
+        </section>
+
+        <section class="teaching-point">
+            <h2>3. Invite Learners to Live What They Are Learning</h2>
+
+            <p>
+                It was awe-inspiring to watch the Savior walk on water, but
+                watching was not enough for Peter. He needed to have the
+                experience himself. Our students are the same. Faith grows
+                when it is acted on.
+            </p>
+        </section>
+
+        <p>
+            As we listen to Sister Teboho Follie today, I invite you to do two
+            things. First, see your students as God sees them, capable of
+            learning and acting for themselves. Second, ask yourself honestly
+            where you could invite more of that learning in your own class.
+            Then listen for the Spirit to show you how.
+        </p>
+
+        <p>
+            We are not only passing on information, and we are not only
+            inspiring students with our personalities. We are preparing them
+            to recognize the voice of the Holy Ghost. That skill will bless
+            them long after they leave our classrooms.
+        </p>
+
+        <div class="testimony">
+            <p>
+                I testify that the Lord knows you and magnifies your efforts.
+                As you invite your students to act, you will see miracles in
+                their lives. I say this in the name of Jesus Christ, amen.
+            </p>
+        </div>
+
+    </main>
+</body>
+</html>
